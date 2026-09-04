@@ -1,7 +1,7 @@
 {
-  "name": "Rona Art — رونا أرت",
-  "short_name": "Rona Art",
-  "description": "تطبيق إدارة متجر Rona Art: منتجات، طلبات، زبائن، أرباح وإحصائيات",
+  "name": "Printy — برينتي",
+  "short_name": "Printy",
+  "description": "تطبيق إدارة متجر Printy: منتجات، طلبات، زبائن، أرباح وإحصائيات",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
