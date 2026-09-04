@@ -1,7 +1,7 @@
 {
-  "name": "Rona Art — إدارة المتجر",
-  "short_name": "Rona Art",
-  "description": "تطبيق إدارة متجر Rona Art: منتجات، طلبات، زبائن، أرباح وإحصائيات",
+  "name": "Printy — برينتي",
+  "short_name": "Printy",
+  "description": "تطبيق إدارة متجر Printy: منتجات، طلبات، زبائن، أرباح وإحصائيات",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
@@ -11,8 +11,8 @@
   "dir": "rtl",
   "lang": "ar",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    { "src": "1788540620065.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "1788540620065.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "1788540620065.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
   ]
 }
