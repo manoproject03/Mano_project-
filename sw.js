@@ -1,4 +1,4 @@
-const CACHE_NAME = 'rona-art-cache-v1';
+const CACHE_NAME = 'Printy-cache-v1';
 const CORE_ASSETS = ['./index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', (event) => {
